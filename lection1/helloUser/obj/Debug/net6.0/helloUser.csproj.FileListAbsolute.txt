@@ -1,0 +1,15 @@
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/obj/Debug/net6.0/helloUser.csproj.AssemblyReference.cache
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/obj/Debug/net6.0/helloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/obj/Debug/net6.0/helloUser.AssemblyInfoInputs.cache
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/obj/Debug/net6.0/helloUser.AssemblyInfo.cs
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/obj/Debug/net6.0/helloUser.csproj.CoreCompileInputs.cache
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/bin/Debug/net6.0/helloUser
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/bin/Debug/net6.0/helloUser.deps.json
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/bin/Debug/net6.0/helloUser.runtimeconfig.json
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/bin/Debug/net6.0/helloUser.dll
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/bin/Debug/net6.0/ref/helloUser.dll
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/bin/Debug/net6.0/helloUser.pdb
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/obj/Debug/net6.0/helloUser.dll
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/obj/Debug/net6.0/ref/helloUser.dll
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/obj/Debug/net6.0/helloUser.pdb
+/Users/dmitrijfedorcuk/Documents/Учеба/Programming/lection1/helloUser/obj/Debug/net6.0/helloUser.genruntimeconfig.cache
